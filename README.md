@@ -8,3 +8,5 @@ Este repositorio cuenta con diferentes archivos hasta el momento:
 - Los otros archivos ".csv" son para separar los alumnos según género y si es natación 1 o 2. 
 
 Quizás algunas de las cosas no son lo más óptimo posible, de hecho, así que métele mano con confianza.
+
+Acabo de descubrir que no recuerdo cómo se usaba el .gitignore, así que si me echas una mano, agradecida.
